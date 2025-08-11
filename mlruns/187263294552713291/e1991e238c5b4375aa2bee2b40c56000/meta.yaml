@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/johny/OneDrive/Desktop/fake-news-detector/mlruns/187263294552713291/e1991e238c5b4375aa2bee2b40c56000/artifacts
+end_time: 1754888612901
+entry_point_name: ''
+experiment_id: '187263294552713291'
+lifecycle_stage: active
+run_id: e1991e238c5b4375aa2bee2b40c56000
+run_name: receptive-kite-375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754888612874
+status: 4
+tags: []
+user_id: johny

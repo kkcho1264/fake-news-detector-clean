@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/johny/OneDrive/Desktop/fake-news-detector/mlruns/187263294552713291/8ac42739573c4589b21a8b6d83ead408/artifacts
+end_time: 1754888408345
+entry_point_name: ''
+experiment_id: '187263294552713291'
+lifecycle_stage: active
+run_id: 8ac42739573c4589b21a8b6d83ead408
+run_name: enchanting-cat-193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754888408308
+status: 4
+tags: []
+user_id: johny

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/johny/OneDrive/Desktop/fake-news-detector/mlruns/187263294552713291/533a7b8f36c04ca68cb5a2ed6973526a/artifacts
+end_time: 1754889404104
+entry_point_name: ''
+experiment_id: '187263294552713291'
+lifecycle_stage: active
+run_id: 533a7b8f36c04ca68cb5a2ed6973526a
+run_name: welcoming-ape-698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754889178730
+status: 3
+tags: []
+user_id: johny

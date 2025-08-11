@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/johny/OneDrive/Desktop/fake-news-detector/mlruns/187263294552713291/0c268c93f75f43ee8d58866d54f31ce7/artifacts
+end_time: 1754888538948
+entry_point_name: ''
+experiment_id: '187263294552713291'
+lifecycle_stage: active
+run_id: 0c268c93f75f43ee8d58866d54f31ce7
+run_name: intelligent-newt-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754888538910
+status: 4
+tags: []
+user_id: johny

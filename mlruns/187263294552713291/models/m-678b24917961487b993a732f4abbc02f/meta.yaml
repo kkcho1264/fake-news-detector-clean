@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/johny/OneDrive/Desktop/fake-news-detector/mlruns/187263294552713291/models/m-678b24917961487b993a732f4abbc02f/artifacts
+creation_timestamp: 1754889377007
+experiment_id: '187263294552713291'
+last_updated_timestamp: 1754889403937
+model_id: m-678b24917961487b993a732f4abbc02f
+model_type: null
+name: model
+source_run_id: 533a7b8f36c04ca68cb5a2ed6973526a
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/johny/OneDrive/Desktop/fake-news-detector/mlruns/187263294552713291/730546f204a64bbb853c352def5662cb/artifacts
+end_time: 1754889048079
+entry_point_name: ''
+experiment_id: '187263294552713291'
+lifecycle_stage: active
+run_id: 730546f204a64bbb853c352def5662cb
+run_name: clumsy-carp-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754889048049
+status: 4
+tags: []
+user_id: johny
