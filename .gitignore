@@ -1,0 +1,17 @@
+# Ignorar archivos de datos pesados
+.vscode/data/processed/X_train.csv
+.vscode/data/processed/X_test.csv
+.vscode/data/raw/Fake.csv
+.vscode/data/raw/True.csv
+
+# Ignorar checkpoints y archivos temporales
+**/.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Ignorar entornos virtuales
+venv/
+.env/
+
+# Ignorar archivos de configuración local
+.vscode/
